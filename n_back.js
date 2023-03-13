@@ -140,7 +140,7 @@ var feedback = {
       " of the " +
       n_nonmatch +
       " non-matching items as matches.</p>" +
-      "Press any key to proceed to the next part of the survey";
+      "<p style='font-weight: bold'>Press any key to proceed to the next part of the survey</p>";
 
     return html;
   },
